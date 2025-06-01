@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Career Path Recommender</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        select, button { padding: 10px; font-size: 16px; margin-top: 10px; }
+        label { display: block; margin-top: 20px; font-weight: bold; }
+        .card {
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 20px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.05);
+        }
+    </style>
+</head>
+<body>
+    <h1>Career Path Recommender</h1>
+    <form method="POST">
+        <label>Select Your Interests:</label>
+        <select name="interests" multiple size="5">
+            {% for interest in interest_options %}
+                <option value="{{ interest }}">{{ interest }}</option>
+            {% endfor %}
+        </select>
+
+        <label>Select Your Career Goals:</label>
+        <select name="goals" multiple size="5">
+            {% for goal in goal_options %}
+                <option value="{{ goal }}">{{ goal }}</option>
+            {% endfor %}
+        </select>
+
+        <br><br>
+        <button type="submit">Get Recommendations</button>
+    </form>
+
+    {% if recommendations %}
+        <h2>Top Career Matches:</h2>
+        {% for item in recommendations %}
+            <div class="card">
+                <h3>{{ item.title }}</h3>
+                <p>{{ item.description }}</p>
+            </div>
+        {% endfor %}
+    {% endif %}
+</body>
+</html>

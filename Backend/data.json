@@ -1,0 +1,886 @@
+[
+    {
+        "id": "cp01",
+        "title": "Frontend Web Developer",
+        "description": "Builds interactive and responsive user interfaces for websites and web applications.",
+        "interest_tags": [
+            "web",
+            "uiux"
+        ],
+        "career_goals": [
+            "job",
+            "freelance"
+        ],
+        "skills_required": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        "roadmap": [
+            "Learn HTML and CSS basics",
+            "Master JavaScript and DOM manipulation",
+            "Learn frontend frameworks like React or Vue",
+            "Build responsive websites",
+            "Create a portfolio with 3+ projects"
+        ],
+        "resources": [
+            {
+                "title": "freeCodeCamp Responsive Web Design",
+                "link": "https://www.freecodecamp.org/learn/responsive-web-design/"
+            },
+            {
+                "title": "React Docs",
+                "link": "https://reactjs.org/docs/getting-started.html"
+            }
+        ]
+    },
+    {
+        "id": "cp02",
+        "title": "Data Scientist",
+        "description": "Extracts insights from data using statistical methods and machine learning techniques.",
+        "interest_tags": [
+            "data",
+            "ml"
+        ],
+        "career_goals": [
+            "job",
+            "research"
+        ],
+        "skills_required": [
+            "Python",
+            "Pandas",
+            "Numpy",
+            "Scikit-learn",
+            "SQL",
+            "Statistics"
+        ],
+        "roadmap": [
+            "Learn Python for data analysis",
+            "Understand basic statistics and probability",
+            "Work with Pandas and NumPy",
+            "Learn machine learning with Scikit-learn",
+            "Create data science projects and a portfolio"
+        ],
+        "resources": [
+            {
+                "title": "Data Science Handbook",
+                "link": "https://jakevdp.github.io/PythonDataScienceHandbook/"
+            },
+            {
+                "title": "Kaggle Courses",
+                "link": "https://www.kaggle.com/learn"
+            }
+        ]
+    },
+    {
+        "id": "cp03",
+        "title": "Cybersecurity Analyst",
+        "description": "Protects systems and networks from digital attacks and unauthorized access.",
+        "interest_tags": [
+            "cybersecurity"
+        ],
+        "career_goals": [
+            "job",
+            "certifications"
+        ],
+        "skills_required": [
+            "Networking",
+            "Linux",
+            "Ethical Hacking",
+            "SIEM Tools"
+        ],
+        "roadmap": [
+            "Learn computer networks and protocols",
+            "Study Linux fundamentals",
+            "Understand ethical hacking principles",
+            "Practice using tools like Wireshark and Burp Suite",
+            "Get certified (CEH, CompTIA Security+)"
+        ],
+        "resources": [
+            {
+                "title": "Cybrary Cybersecurity Courses",
+                "link": "https://www.cybrary.it/"
+            },
+            {
+                "title": "TryHackMe",
+                "link": "https://tryhackme.com/"
+            }
+        ]
+    },
+    {
+        "id": "cp04",
+        "title": "Android Developer",
+        "description": "Develops mobile applications for Android devices.",
+        "interest_tags": [
+            "app",
+            "mobile"
+        ],
+        "career_goals": [
+            "job",
+            "freelance"
+        ],
+        "skills_required": [
+            "Java",
+            "Kotlin",
+            "Android Studio",
+            "XML"
+        ],
+        "roadmap": [
+            "Learn Java or Kotlin",
+            "Understand Android app architecture",
+            "Build simple apps with Android Studio",
+            "Explore Material Design and UI/UX",
+            "Upload apps to Google Play Store"
+        ],
+        "resources": [
+            {
+                "title": "Android Developers Guide",
+                "link": "https://developer.android.com/guide"
+            },
+            {
+                "title": "Kotlin Android Course \u2013 Udacity",
+                "link": "https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012"
+            }
+        ]
+    },
+    {
+        "id": "cp05",
+        "title": "Machine Learning Engineer",
+        "description": "Designs and deploys ML models to solve real-world problems.",
+        "interest_tags": [
+            "ml",
+            "ai"
+        ],
+        "career_goals": [
+            "job",
+            "research"
+        ],
+        "skills_required": [
+            "Python",
+            "Scikit-learn",
+            "TensorFlow",
+            "Data Structures"
+        ],
+        "roadmap": [
+            "Learn Python for ML",
+            "Understand ML algorithms and use cases",
+            "Work with TensorFlow or PyTorch",
+            "Solve problems on Kaggle",
+            "Deploy models using Flask or FastAPI"
+        ],
+        "resources": [
+            {
+                "title": "DeepLearning.AI Specialization",
+                "link": "https://www.coursera.org/specializations/deep-learning"
+            },
+            {
+                "title": "TensorFlow Tutorials",
+                "link": "https://www.tensorflow.org/tutorials"
+            }
+        ]
+    },
+    {
+        "id": "cp06",
+        "title": "Cloud DevOps Engineer",
+        "description": "Implements and manages scalable cloud infrastructure and automates software delivery pipelines.",
+        "interest_tags": [
+            "cloud",
+            "devops"
+        ],
+        "career_goals": [
+            "job",
+            "certifications"
+        ],
+        "skills_required": [
+            "Linux",
+            "Docker",
+            "Kubernetes",
+            "AWS/GCP/Azure",
+            "CI/CD Tools",
+            "Terraform"
+        ],
+        "roadmap": [
+            "Understand cloud fundamentals (AWS, GCP, Azure)",
+            "Learn Linux and networking basics",
+            "Get hands-on with Docker and Kubernetes",
+            "Study CI/CD tools like Jenkins and GitHub Actions",
+            "Learn infrastructure as code using Terraform",
+            "Deploy and monitor scalable apps in the cloud"
+        ],
+        "resources": [
+            {
+                "title": "AWS Learning Path",
+                "link": "https://aws.amazon.com/training/"
+            },
+            {
+                "title": "Docker and Kubernetes Guide",
+                "link": "https://www.katacoda.com/courses/kubernetes"
+            }
+        ]
+    },
+    {
+        "id": "cp07",
+        "title": "IoT and Embedded Systems Engineer",
+        "description": "Designs low-level software for embedded devices and develops smart IoT solutions.",
+        "interest_tags": [
+            "embedded",
+            "iot"
+        ],
+        "career_goals": [
+            "job",
+            "research"
+        ],
+        "skills_required": [
+            "C/C++",
+            "Microcontrollers (Arduino, STM32)",
+            "Embedded Linux",
+            "IoT Protocols (MQTT, CoAP)",
+            "Sensors & Actuators"
+        ],
+        "roadmap": [
+            "Learn C/C++ programming and basic electronics",
+            "Work with microcontroller platforms like Arduino or ESP32",
+            "Study real-time systems and embedded Linux",
+            "Understand IoT communication protocols",
+            "Build IoT prototypes and integrate with cloud services"
+        ],
+        "resources": [
+            {
+                "title": "IoT Specialization by UC San Diego",
+                "link": "https://www.coursera.org/specializations/iot"
+            },
+            {
+                "title": "Arduino Project Hub",
+                "link": "https://create.arduino.cc/projecthub"
+            }
+        ]
+    },
+    {
+        "id": "cp08",
+        "title": "UI/UX Designer",
+        "description": "Designs intuitive, user-centered digital experiences and prototypes interfaces.",
+        "interest_tags": [
+            "uiux"
+        ],
+        "career_goals": [
+            "job",
+            "freelance"
+        ],
+        "skills_required": [
+            "Figma",
+            "Adobe XD",
+            "Design Thinking",
+            "Wireframing",
+            "User Research"
+        ],
+        "roadmap": [
+            "Understand design principles and color theory",
+            "Learn tools like Figma or Adobe XD",
+            "Practice creating wireframes and prototypes",
+            "Conduct usability testing and user research",
+            "Build a UI/UX portfolio with case studies"
+        ],
+        "resources": [
+            {
+                "title": "Google UX Design Certificate",
+                "link": "https://www.coursera.org/professional-certificates/google-ux-design"
+            },
+            {
+                "title": "Figma Crash Course",
+                "link": "https://www.youtube.com/watch?v=FTFaQWZBqQ8"
+            }
+        ]
+    },
+    {
+        "id": "cp09",
+        "title": "Software Engineer",
+        "description": "Applies software engineering principles to develop reliable and scalable software systems.",
+        "interest_tags": [
+            "software",
+            "engineering"
+        ],
+        "career_goals": [
+            "job",
+            "higher_studies"
+        ],
+        "skills_required": [
+            "Data Structures",
+            "Algorithms",
+            "Object-Oriented Programming",
+            "Git",
+            "System Design"
+        ],
+        "roadmap": [
+            "Learn programming languages (C++, Java, Python)",
+            "Master data structures and algorithms",
+            "Understand OOP and design patterns",
+            "Contribute to open source or group projects",
+            "Prepare for system design and technical interviews"
+        ],
+        "resources": [
+            {
+                "title": "LeetCode",
+                "link": "https://leetcode.com/"
+            },
+            {
+                "title": "System Design Primer",
+                "link": "https://github.com/donnemartin/system-design-primer"
+            }
+        ]
+    },
+    {
+        "id": "cp10",
+        "title": "AI Researcher",
+        "description": "Explores advanced algorithms and models to push the boundaries of AI and publish academic work.",
+        "interest_tags": [
+            "ai",
+            "research"
+        ],
+        "career_goals": [
+            "research",
+            "higher_studies"
+        ],
+        "skills_required": [
+            "Mathematics",
+            "Python",
+            "Deep Learning",
+            "Research Writing",
+            "Scientific Publishing"
+        ],
+        "roadmap": [
+            "Master mathematics (linear algebra, calculus, probability)",
+            "Study ML and DL algorithms deeply",
+            "Read academic papers from ArXiv and Google Scholar",
+            "Contribute to open-source research projects",
+            "Publish papers and pursue a master's or PhD"
+        ],
+        "resources": [
+            {
+                "title": "Papers with Code",
+                "link": "https://paperswithcode.com/"
+            },
+            {
+                "title": "CS231n: Deep Learning for Vision",
+                "link": "https://cs231n.stanford.edu/"
+            }
+        ]
+    },
+    {
+        "id": "cp11",
+        "title": "Tech Entrepreneur",
+        "description": "Builds and launches tech products or startups, often from idea to execution and scaling.",
+        "interest_tags": [
+            "entrepreneurship"
+        ],
+        "career_goals": [
+            "startup",
+            "freelance"
+        ],
+        "skills_required": [
+            "Product Development",
+            "UI/UX Design",
+            "MVP Building",
+            "Marketing & Growth",
+            "Fundraising"
+        ],
+        "roadmap": [
+            "Identify a problem and validate your idea",
+            "Build a Minimum Viable Product (MVP)",
+            "Learn basic UI/UX and product design",
+            "Create a go-to-market strategy",
+            "Pitch to investors or bootstrap your product"
+        ],
+        "resources": [
+            {
+                "title": "Y Combinator Startup School",
+                "link": "https://www.startupschool.org/"
+            },
+            {
+                "title": "Zero to One by Peter Thiel",
+                "link": "https://www.goodreads.com/book/show/18050143-zero-to-one"
+            }
+        ]
+    },
+    {
+        "id": "cp12",
+        "title": "Full-Stack Developer",
+        "description": "Develops both client and server software for web applications.",
+        "interest_tags": [
+            "web",
+            "software"
+        ],
+        "career_goals": [
+            "job",
+            "freelance"
+        ],
+        "skills_required": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Git"
+        ],
+        "roadmap": [
+            "Learn HTML, CSS, and JavaScript",
+            "Master React or Angular for frontend",
+            "Learn Node.js and Express for backend",
+            "Understand databases like MongoDB or PostgreSQL",
+            "Practice full-stack project development",
+            "Host apps using platforms like Heroku or Vercel"
+        ],
+        "resources": [
+            {
+                "title": "The Odin Project",
+                "link": "https://www.theodinproject.com/"
+            },
+            {
+                "title": "Full Stack Open",
+                "link": "https://fullstackopen.com/en/"
+            }
+        ]
+    },
+    {
+        "id": "cp13",
+        "title": "Backend Developer",
+        "description": "Specializes in the server-side logic, databases, and APIs of web applications.",
+        "interest_tags": [
+            "web",
+            "software"
+        ],
+        "career_goals": [
+            "job"
+        ],
+        "skills_required": [
+            "Node.js",
+            "Express",
+            "SQL",
+            "MongoDB",
+            "REST APIs",
+            "Authentication"
+        ],
+        "roadmap": [
+            "Learn JavaScript or Python",
+            "Study backend frameworks like Express or Django",
+            "Work with relational and NoSQL databases",
+            "Understand API development and testing",
+            "Secure APIs and manage authentication"
+        ],
+        "resources": [
+            {
+                "title": "Node.js Docs",
+                "link": "https://nodejs.org/en/docs/"
+            },
+            {
+                "title": "RESTful API Tutorial",
+                "link": "https://restfulapi.net/"
+            }
+        ]
+    },
+    {
+        "id": "cp14",
+        "title": "iOS Developer",
+        "description": "Develops mobile applications for Apple devices using Swift or Objective-C.",
+        "interest_tags": [
+            "app",
+            "mobile"
+        ],
+        "career_goals": [
+            "job",
+            "freelance"
+        ],
+        "skills_required": [
+            "Swift",
+            "Xcode",
+            "UIKit",
+            "Core Data",
+            "REST APIs"
+        ],
+        "roadmap": [
+            "Learn Swift programming language",
+            "Master Xcode and iOS app architecture",
+            "Build apps using UIKit and SwiftUI",
+            "Understand App Store guidelines and publishing",
+            "Create and maintain your app portfolio"
+        ],
+        "resources": [
+            {
+                "title": "Apple Developer",
+                "link": "https://developer.apple.com/ios/"
+            },
+            {
+                "title": "Hacking with Swift",
+                "link": "https://www.hackingwithswift.com/"
+            }
+        ]
+    },
+    {
+        "id": "cp15",
+        "title": "Game Developer",
+        "description": "Creates interactive games using game engines and programming languages.",
+        "interest_tags": [
+            "software",
+            "game"
+        ],
+        "career_goals": [
+            "job",
+            "freelance"
+        ],
+        "skills_required": [
+            "C#",
+            "Unity",
+            "Unreal Engine",
+            "Game Design",
+            "Graphics Programming"
+        ],
+        "roadmap": [
+            "Learn programming languages like C# or C++",
+            "Explore Unity or Unreal Engine",
+            "Understand game mechanics and design",
+            "Create game prototypes",
+            "Publish games on platforms like itch.io or Steam"
+        ],
+        "resources": [
+            {
+                "title": "Unity Learn",
+                "link": "https://learn.unity.com/"
+            },
+            {
+                "title": "Unreal Engine Docs",
+                "link": "https://docs.unrealengine.com/"
+            }
+        ]
+    },
+    {
+        "id": "cp16",
+        "title": "Data Analyst",
+        "description": "Analyzes structured data to help organizations make informed decisions.",
+        "interest_tags": [
+            "data"
+        ],
+        "career_goals": [
+            "job"
+        ],
+        "skills_required": [
+            "Excel",
+            "SQL",
+            "Python",
+            "Power BI",
+            "Tableau",
+            "Statistics"
+        ],
+        "roadmap": [
+            "Learn Excel and basic data operations",
+            "Master SQL for querying databases",
+            "Use Python for data analysis with Pandas",
+            "Visualize data with Tableau or Power BI",
+            "Work on real-world analytics projects"
+        ],
+        "resources": [
+            {
+                "title": "Google Data Analytics Certificate",
+                "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            },
+            {
+                "title": "Kaggle Datasets",
+                "link": "https://www.kaggle.com/datasets"
+            }
+        ]
+    },
+    {
+        "id": "cp17",
+        "title": "AI and Deep Learning Engineer",
+        "description": "Develops intelligent models using neural networks to solve complex tasks.",
+        "interest_tags": [
+            "ai",
+            "ml"
+        ],
+        "career_goals": [
+            "job",
+            "research"
+        ],
+        "skills_required": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "Neural Networks",
+            "NLP",
+            "Computer Vision"
+        ],
+        "roadmap": [
+            "Understand machine learning fundamentals",
+            "Learn deep learning frameworks like TensorFlow and PyTorch",
+            "Explore advanced topics like CNNs, RNNs, and GANs",
+            "Build AI projects in NLP and Computer Vision",
+            "Deploy AI models into production"
+        ],
+        "resources": [
+            {
+                "title": "Deep Learning Specialization",
+                "link": "https://www.coursera.org/specializations/deep-learning"
+            },
+            {
+                "title": "Fast.ai Courses",
+                "link": "https://course.fast.ai/"
+            }
+        ]
+    },
+    {
+        "id": "cp18",
+        "title": "Data Engineer",
+        "description": "Builds systems that collect, store, and analyze data at scale.",
+        "interest_tags": [
+            "data"
+        ],
+        "career_goals": [
+            "job"
+        ],
+        "skills_required": [
+            "Python",
+            "SQL",
+            "ETL",
+            "Spark",
+            "Airflow",
+            "Cloud Platforms"
+        ],
+        "roadmap": [
+            "Learn Python and SQL",
+            "Understand ETL pipelines and data warehousing",
+            "Work with big data tools like Spark or Hadoop",
+            "Automate workflows using Apache Airflow",
+            "Deploy pipelines on AWS/GCP"
+        ],
+        "resources": [
+            {
+                "title": "Data Engineering Zoomcamp",
+                "link": "https://github.com/DataTalksClub/data-engineering-zoomcamp"
+            },
+            {
+                "title": "AWS Big Data Path",
+                "link": "https://aws.amazon.com/training/learning-paths/big-data/"
+            }
+        ]
+    },
+    {
+        "id": "cp19",
+        "title": "Business Intelligence Analyst",
+        "description": "Uses data tools to generate insights and drive business strategy.",
+        "interest_tags": [
+            "data",
+            "bi"
+        ],
+        "career_goals": [
+            "job"
+        ],
+        "skills_required": [
+            "SQL",
+            "Power BI",
+            "Excel",
+            "Data Modeling",
+            "Business Strategy"
+        ],
+        "roadmap": [
+            "Master SQL and Excel for data manipulation",
+            "Learn Power BI or Tableau for dashboards",
+            "Understand KPIs and business metrics",
+            "Design data models for reporting",
+            "Work on real-world BI projects"
+        ],
+        "resources": [
+            {
+                "title": "Power BI Learning",
+                "link": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi/"
+            },
+            {
+                "title": "Tableau Public Gallery",
+                "link": "https://public.tableau.com/en-us/gallery"
+            }
+        ]
+    },
+    {
+        "id": "cp20",
+        "title": "Cloud Security Analyst",
+        "description": "Secures cloud environments by identifying and mitigating vulnerabilities.",
+        "interest_tags": [
+            "cloud",
+            "cybersecurity"
+        ],
+        "career_goals": [
+            "job"
+        ],
+        "skills_required": [
+            "Cloud Security",
+            "IAM",
+            "Encryption",
+            "AWS/GCP Security",
+            "SIEM Tools"
+        ],
+        "roadmap": [
+            "Learn fundamentals of cloud platforms (AWS, Azure, GCP)",
+            "Study cloud-specific security features",
+            "Work with IAM, firewalls, and encryption",
+            "Analyze incidents using SIEM tools",
+            "Get certified (AWS Security Specialty, CompTIA Security+)"
+        ],
+        "resources": [
+            {
+                "title": "AWS Security Learning",
+                "link": "https://aws.amazon.com/security/"
+            },
+            {
+                "title": "Google Cloud Security Overview",
+                "link": "https://cloud.google.com/security"
+            }
+        ]
+    },
+    {
+        "id": "cp21",
+        "title": "Ethical Hacker / Penetration Tester",
+        "description": "Tests systems and networks to identify security vulnerabilities.",
+        "interest_tags": [
+            "cybersecurity"
+        ],
+        "career_goals": [
+            "job",
+            "certifications"
+        ],
+        "skills_required": [
+            "Kali Linux",
+            "Nmap",
+            "Burp Suite",
+            "Metasploit",
+            "Python",
+            "Cybersecurity Laws"
+        ],
+        "roadmap": [
+            "Learn networking and Linux",
+            "Understand ethical hacking methodology",
+            "Practice tools like Nmap, Wireshark, Burp Suite",
+            "Perform vulnerability scanning and reporting",
+            "Prepare for certifications like CEH"
+        ],
+        "resources": [
+            {
+                "title": "CEH Training",
+                "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+            },
+            {
+                "title": "Hack The Box",
+                "link": "https://www.hackthebox.com/"
+            }
+        ]
+    },
+    {
+        "id": "cp22",
+        "title": "Security Engineer",
+        "description": "Implements and maintains security measures to protect systems and data.",
+        "interest_tags": [
+            "cybersecurity"
+        ],
+        "career_goals": [
+            "job"
+        ],
+        "skills_required": [
+            "Firewalls",
+            "IDS/IPS",
+            "SIEM",
+            "Scripting",
+            "Incident Response"
+        ],
+        "roadmap": [
+            "Study cybersecurity principles and threat modeling",
+            "Learn how to configure and monitor firewalls",
+            "Use SIEM tools for threat detection",
+            "Implement security controls and automation",
+            "Handle incident response processes"
+        ],
+        "resources": [
+            {
+                "title": "Cybersecurity Engineer Learning Path",
+                "link": "https://www.coursera.org/learn/ibm-cybersecurity-analyst"
+            },
+            {
+                "title": "Splunk Security Tutorials",
+                "link": "https://www.splunk.com/en_us/training.html"
+            }
+        ]
+    },
+    {
+        "id": "cp23",
+        "title": "Robotics Engineer",
+        "description": "Designs and develops robotic systems for industrial or consumer use.",
+        "interest_tags": [
+            "embedded",
+            "robotics"
+        ],
+        "career_goals": [
+            "job",
+            "research"
+        ],
+        "skills_required": [
+            "C/C++",
+            "Python",
+            "ROS",
+            "Microcontrollers",
+            "Kinematics",
+            "Control Systems"
+        ],
+        "roadmap": [
+            "Learn embedded programming (C/C++) and microcontroller basics",
+            "Understand mechanical design and control theory",
+            "Explore Robotics Operating System (ROS)",
+            "Build and simulate robots",
+            "Work on real-time robotics projects"
+        ],
+        "resources": [
+            {
+                "title": "ROS Tutorials",
+                "link": "https://wiki.ros.org/ROS/Tutorials"
+            },
+            {
+                "title": "MIT Robotics Course",
+                "link": "https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/"
+            }
+        ]
+    },
+    {
+        "id": "cp24",
+        "title": "Product Designer",
+        "description": "Designs digital products with a focus on user experience, aesthetics, and functionality.",
+        "interest_tags": [
+            "uiux",
+            "product"
+        ],
+        "career_goals": [
+            "job",
+            "freelance"
+        ],
+        "skills_required": [
+            "Figma",
+            "Prototyping",
+            "User Research",
+            "Design Systems",
+            "UI/UX Principles"
+        ],
+        "roadmap": [
+            "Study design principles and human-computer interaction",
+            "Master tools like Figma, Sketch, and Adobe XD",
+            "Conduct user interviews and usability testing",
+            "Design product flows and wireframes",
+            "Build a professional design portfolio"
+        ],
+        "resources": [
+            {
+                "title": "Design Better by InVision",
+                "link": "https://www.designbetter.co/"
+            },
+            {
+                "title": "UX Design Masterclass",
+                "link": "https://www.udemy.com/course/ux-design-masterclass/"
+            }
+        ]
+    }
+]
