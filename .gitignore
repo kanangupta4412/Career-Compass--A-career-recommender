@@ -1,0 +1,25 @@
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Environment variables
+.env
+
+# Node modules (for frontend)
+node_modules/
+
+# Build files
+dist/
+build/
+
+# VS Code and other IDE settings
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
