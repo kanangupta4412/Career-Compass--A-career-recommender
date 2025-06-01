@@ -52,5 +52,20 @@ cd frontend
 npm install
 npm start
 
+```
+#### 💻 Website UI Screenshots
+
+### 🏠 Homepage
+![Homepage UI](UI_screenshots/home.png)
+
+### Input page
+![Input UI](UI_screenshots/input1.png)
+![Input UI](UI_screenshots/input2.png)
+![Input UI](UI_screenshots/input3.png)
+
+### 📊 Results Page
+![Results UI](UI_screenshots/result1.png)
+![Results UI](UI_screenshots/result2.png)
+![Results UI](UI_screenshots/result3.png)
 
 
