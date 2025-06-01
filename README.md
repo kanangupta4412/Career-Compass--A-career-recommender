@@ -52,3 +52,6 @@ cd frontend
 npm install
 npm start
 
+
+![Screenshot 2025-05-21 100902](https://github.com/user-attachments/assets/f03fb178-1719-4a03-bc42-cb2ed5105e56)
+
